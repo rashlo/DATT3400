@@ -1,4 +1,4 @@
-# Dome Projections 
+#Dome Projections 
 
 This TouchDesigner project is my attempt at using this fairly new tool to my toolset to create a Dome Projection.
 
